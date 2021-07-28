@@ -1,5 +1,8 @@
-# exploracao_brics-world-bank-indicators
-Exploração dos dados dos DataSets de brics-world-bank-indicators
+# Exploração de dados do dataset Brics World Bank Indicatores e predição da quantidade de importação de armas na China 
+
+
+Dataset : https://www.kaggle.com/docstein/brics-world-bank-indicators
+
 
 https://github.com/andremarasca/exploracao_brics-world-bank-indicators
 
